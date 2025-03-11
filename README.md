@@ -63,8 +63,9 @@ Replace <your_instance_ip> with the IP of your EC2 instance.
 ```
 
 
-## 7. Set Up Grafana (Optional but Recommended)
-## For visualizing the RabbitMQ metrics in Grafana:
+## 7. Set Up Grafana 
+### For visualizing the RabbitMQ metrics in Grafana:
+use dashboard ID: 10991 for grafana RabbitMQ-Overview
 
 Install Grafana on your EC2 instance.
 
